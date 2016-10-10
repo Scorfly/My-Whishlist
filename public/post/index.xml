@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My WhishList - Scorfly</title>
-    <link>http://whishlist.scorfly.ovh/post/</link>
+    <link>http://wishlist.scorfly.ovh/post/</link>
     <description>Recent content in Posts on My WhishList - Scorfly</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Jul 2016 01:04:28 +0200</lastBuildDate>
-    <atom:link href="http://whishlist.scorfly.ovh/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://wishlist.scorfly.ovh/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Welcome</title>
-      <link>http://whishlist.scorfly.ovh/post/welcome/</link>
+      <link>http://wishlist.scorfly.ovh/post/welcome/</link>
       <pubDate>Fri, 01 Jul 2016 01:04:28 +0200</pubDate>
       
-      <guid>http://whishlist.scorfly.ovh/post/welcome/</guid>
+      <guid>http://wishlist.scorfly.ovh/post/welcome/</guid>
       <description>
 
 &lt;p&gt;Je fait enfin mes premiers pas avec Hugo pour réaliser un blog / whishlist \o/&lt;/p&gt;

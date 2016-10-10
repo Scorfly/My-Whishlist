@@ -1,4 +1,4 @@
-baseurl = "http://whishlist.scorfly.ovh/"
+baseurl = "http://wishlist.scorfly.ovh/"
 languageCode = "en-us"
 title = "My WhishList - Scorfly"
 theme = "hugo-future-imperfect"
