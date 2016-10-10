@@ -1,6 +1,6 @@
 baseurl = "http://wishlist.scorfly.ovh/"
 languageCode = "en-us"
-title = "My WhishList - Scorfly"
+title = "My WishList - Scorfly"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
@@ -9,9 +9,9 @@ publishdir = "public"
 
 [params]
     # Sets the meta tag description, usually reserved for the main page
-    description          = "Whishlist de Scrofly"
+    description          = "Wishlist de Scrofly"
     # This will appear on the top left of the navigation bar
-    navbarTitle          = "My Whishlist"
+    navbarTitle          = "My Wishlist"
     # Social media buttons that appear on the sidebar
     socialAppearAtTop    = true
     socialAppearAtBottom = true
@@ -41,7 +41,7 @@ publishdir = "public"
 # parms.intro will appear on the sidebar
 # This is optional, but it's suggested to use
 [params.intro]
-    header    = "My Whishlist"
+    header    = "My Wishlist"
     paragraph = ""
     about     = ""
 
