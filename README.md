@@ -1,2 +1,1 @@
-# mywishlist
-My Whishlist
+This repository is the start of http://whishlist.scorfly.ovh/
