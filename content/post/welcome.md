@@ -4,9 +4,9 @@ title = "Welcome"
 type = "welcome"
 +++
 
-Je fait enfin mes premiers pas avec Hugo pour réaliser un blog / whishlist \o/
+Je fait enfin mes premiers pas avec Hugo pour réaliser un blog / wishlist \o/
 
-**Pourquoi un site whishlist ?**
+**Pourquoi un site wishlist ?**
 
 Dans un premier temps par ce qu'il me faut des projets divers et varier afin de tester les technologies qui ont la hype actuellement !
 
